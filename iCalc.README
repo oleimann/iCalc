@@ -1,5 +1,5 @@
 
-Cample output from non-interactive calculation:
+Sample output from non-interactive calculation:
 
 	>java -jar iCalc.jar "2*2"
 	4.0
